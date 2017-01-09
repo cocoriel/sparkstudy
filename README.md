@@ -1,5 +1,4 @@
 # sparkstudy
---------------------------------------
 1. start from Jan.07th, 2017
 2. books
   - spark in action
@@ -13,3 +12,6 @@
 5. aim
   - construct hadoop+spark cluster
   - start from the easiest data(low level data like web logs...)
+6. sites
+  - [inflearn](https://www.inflearn.com/) : python
+  - [Learn to solve it](http://www.learntosolveit.com/) : python/scala/Java/ruby/C
