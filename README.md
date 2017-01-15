@@ -17,3 +17,4 @@
   - [Learn to solve it](http://www.learntosolveit.com/) : python/scala/Java/ruby/C
   - [cloud9](https://c9.io/) : simple developing environment. python environment supported. (Django/ruby/ruby on rails/php etc.)
   - [mindscale](http://mindscale.kr/)
+  - [A Gentle Introduction to Apache Spark on Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/346304/2168141618055043/484361/latest.html)
