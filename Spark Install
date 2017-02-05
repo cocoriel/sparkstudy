@@ -1,0 +1,26 @@
+Download Followings: (Note: Please be careful the versions)
+
+  Java 8 
+      http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+      
+  Python 3.5.3
+      https://www.python.org/downloads/
+      
+  Hadoop 2.6.5
+    http://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-2.6.5/hadoop-2.6.5.tar.gz
+    
+  Spark 2.0.2 (Prebuild for Hadoop 2.6)
+    http://spark.apache.org/downloads.html
+    
+  WinUtils (put winutils.exe in the %HADOOP_HOME%\bin)
+    https://github.com/srccodes/hadoop-common-2.2.0-bin/archive/master.zip
+
+set environment variables
+  JAVA_HOME=D:\Java\jdk1.8.0_111\jre
+  SPARK_HOME=D:\Spark
+  PYTHONPATH=%SPARK_HOME%\python\lib\pyspark.zip;%SPARK_HOME%\python\lib\py4j-0.10.3-src.zip
+  HADOOP_HOME=D:\Hadoop
+  
+Run spark-shell from %SPARK_HOME%/bin
+
+That is it! Easy!
