@@ -7,3 +7,6 @@
 2. [텐서플로 첫걸음](http://www.yes24.com/24/goods/30547754?scode=032&OzSrank=4)
 3. [파이썬 머신러닝](http://www.yes24.com/24/goods/35242117?scode=029)
 4. [Dataquest](https://www.dataquest.io/home)
+
+##참고
+- [spark + tensorflow](https://docs.databricks.com/applications/deep-learning/tensorflow.html) : databricks에서 tensorflow와 spark 연동하여 사용가능
