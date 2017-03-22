@@ -10,5 +10,7 @@
 
 ##참고
 - [spark + tensorflow](https://docs.databricks.com/applications/deep-learning/tensorflow.html) : databricks에서 tensorflow와 spark 연동하여 사용가능
-
-##test
+- [anaconda](https://www.continuum.io/) : 
+    - 아나콘다는 Continuum Analytics라는 곳에서 만든 파이썬 배포판으로, 445개 정도의 파이썬 패키지를 포함하고 있음. 
+    - numpy, scipy, pandas, scikit-learn 등의 파이썬 라이브러리는 기본적으로 포함하고 있으며, 
+    - 설치하면 ipython, jupyter 사용가능함  
